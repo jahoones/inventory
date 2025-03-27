@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# Django secrets
+*.sqlite3
+.env
+
+# Compiled files
+*.pyc
+*.log
